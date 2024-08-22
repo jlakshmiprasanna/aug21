@@ -1,0 +1,141 @@
+body{
+    background-color: lightblue;
+    font-size: 20px;
+}
+.l{
+    
+    position: fixed;
+    background-color: rgb(41, 176, 230);
+    width: 99%;
+    padding: 25px;
+    text-align: center;
+    word-spacing: 30px;
+    font-size: 18px;
+    
+    color: white;
+    top: 0;
+    z-index: 1;
+}
+a{
+    text-decoration: none ;
+}
+.j{
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 75%;
+    font-size: 25px;
+}
+.jl{
+    background-color: white;
+    width: 75%;
+    padding: 10px;
+    margin: 30px;
+    margin-left: 150px;
+}
+.jlp{
+    display: inline;
+    font-size: 30px;
+    margin-left: 2%;
+}
+.jlpr img{
+    display: inline;
+    border: 2px solid black;
+    margin-left: 3%;
+    border-radius: 90%;
+}
+.jlpra{
+    position:absolute;
+    display: inline;
+    margin-left: 28%;
+    bottom: 165px;
+}
+.jlpras{
+    border-collapse: collapse;
+    background-color:white;
+    width: 75%;
+    margin-left: 150px;
+    padding: 10px;
+}
+.jlprasa{
+    border-collapse: collapse;
+    font-size: 30px;
+}
+table,thead,tr,th,td{
+    border-collapse: collapse;
+    text-align: start;
+    width: 1100px;
+    height: 40px;
+    padding: 10px;
+    border: 2px solid black;
+}
+.jlprasan{
+    background-color: white;
+    width: 75%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.jlprasann{
+    font-size: 30px;
+}
+.jlprasanna{
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10%;
+    box-shadow: 3px 3px 3px black;
+    display: inline-block;
+}
+.jlprasanna1{
+    text-align: center;
+    background-color: lightblue;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10%;
+    box-shadow: 3px 3px 3px black;
+    margin: 10px;
+    display: inline-block;
+}
+.jlprasanna2{
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10%;
+    box-shadow: 3px 3px 3px black;
+    margin-top: 10px;
+}
+.jlprasanna3{
+    background-color:  white;
+    border: rgb(30, 13, 13);
+    margin-left: 150px;
+    margin-top: 10px;
+    width: 75%;
+    padding: 10px;
+}
+input[type="text"]{
+    display: block;
+    height: 30px;
+    width: 75%;
+    margin-top: 7px;
+}
+input[type="email"]{
+    display: block;
+    height: 30px;
+    width: 75%;
+    margin-top: 7px;
+}
+button{
+    background-color: green;
+    width: 100px;
+    border-radius: 2%;
+}
+footer{
+    background-color:rgb(24, 131, 224);
+    padding: 10px;
+    text-align: center;
+}
